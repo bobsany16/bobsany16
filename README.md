@@ -17,7 +17,7 @@ Visit my **[personal website](https://linhnguyen.dev)** or find me on [![Twitter
 
 
 ## ⚒️ Technologies & Tools
-![](https://img.shields.io/badge/code-python-brightgreen) ![](https://img.shields.io/badge/code-javascript-brightgreen) ![](https://img.shields.io/badge/code-react_native-brightgreen) ![](https://img.shields.io/badge/code-R-brightgreen) ![](https://img.shields.io/badge/code-java-brightgreen) ![](https://img.shields.io/badge/code-SQL-brightgreen) ![](https://img.shields.io/badge/learning-Jquery-blueviolet)
+![](https://img.shields.io/badge/code-python-brightgreen) ![](https://img.shields.io/badge/code-javascript-brightgreen) ![](https://img.shields.io/badge/code-react_native-brightgreen) ![](https://img.shields.io/badge/code-R-brightgreen) ![](https://img.shields.io/badge/code-java-brightgreen) ![](https://img.shields.io/badge/code-SQL-brightgreen) ![](https://img.shields.io/badge/learning-jQuery-blueviolet)
 
 ![](https://img.shields.io/badge/tool-Redux_Saga-blue) ![](https://img.shields.io/badge/tool-storybook-blue) ![](https://img.shields.io/badge/editor-VS_code-blue) ![](https://img.shields.io/badge/tool-Xcode-blue) ![](https://img.shields.io/badge/design-ADOBE_XD-blue) 
 
