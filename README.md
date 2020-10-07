@@ -26,7 +26,7 @@ Visit my **[personal website](https://linhnguyen.dev)** or find me on [![Twitter
 
 ![](https://github-readme-stats.vercel.app/api?username=bobsany16&show_icons=true&theme=tokyonight)
 
-🔭 I’m currently contributing to: 
+## 🔭 I’m currently contributing to: 
 
 - [Time-to-leave by @thamara](https://github.com/thamara/time-to-leave)
 - Netguru's [sticky-parallax-header ](https://github.com/netguru/sticky-parallax-header)
