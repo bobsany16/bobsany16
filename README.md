@@ -31,5 +31,5 @@ Visit my **[personal website](https://linhnguyen.dev)** or find me on [![Twitter
 - [Time-to-leave by @thamara](https://github.com/thamara/time-to-leave)
 - Netguru's [sticky-parallax-header ](https://github.com/netguru/sticky-parallax-header)
 - [letra-extension ](https://github.com/jayehernandez/letra-extension)
-- Vicki Langer's [Queer-of-the-day-bot](https://github.com/VickiLanger/Queer-of-the-day-bo)🌈 
+- Vicki Langer's [Queer-of-the-day-bot](https://github.com/VickiLanger/Queer-of-the-day-bot)🌈 
 
