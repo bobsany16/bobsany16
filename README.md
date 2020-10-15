@@ -3,7 +3,7 @@
 I'm Linh, also known as, Bobby. My pronouns are he/him. I am currently working as a junior software developer for a startup in Buffalo, NY. 
 I'm very passionate in LGBTQ 🌈 inclusion in tech and trying to contribute to the cause as much as I can. 🙏 
 
-Currently participating in **[Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)** 🤓👌🏻 for the first time in my life. 
+First time participating in **[Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)** 🤓👌🏻
 
 Visit my **[personal website](https://linhnguyen.dev)** or find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]  Let's connect 😁
 
