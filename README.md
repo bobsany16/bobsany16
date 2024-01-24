@@ -1,16 +1,14 @@
 ## 👋 Hello there,
 
-I'm Linh, also known as, Bobby. My pronouns are he/him. I am currently working as a junior software developer for a startup in Buffalo, NY. My goal is to become a full-stack software developer in 2 years.
+I'm Linh, also known as, Bobby. My pronouns are he/him. My goal is to become a full-stack software developer in 2 years.
 I'm very passionate in LGBTQ 🌈 inclusion in tech and trying to contribute to the cause as much as I can. 🙏 
 
 First time participating in **[Hacktoberfest 2020](https://hacktoberfest.digitalocean.com)** 🤓👌🏻
 
-Visit my **[personal website](https://linhnguyen.dev)** or find me on [![Twitter][1.2]][1], or on [![LinkedIn][2.2]][2]  Let's connect 😁
+Visit my **[personal website](https://linhnguyen.dev)** or find me on [![LinkedIn][2.2]][2]  Let's connect 😁
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
-[1]: https://twitter.com/bobbywin16
 [2]: https://www.linkedin.com/in/linhnguyen16/
 
 
